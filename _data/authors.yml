@@ -17,15 +17,15 @@ Name2 Name2:
   twitter     : "name2"
   google_plus : "Name"
 
-Ze Jiang:
-  name             : "Ze Jiang"
+Wenqing Cui:
+  name             : "Wenqing Cui"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate @UNSW, expert in statistical hydrology"
-  location         : "Sydney, Australia"
+  bio              : "Undergraduate@HIT"
+  location         : "Weihai, China"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
+      url: "mailto:mrc0814@163.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://thewhip.com"
