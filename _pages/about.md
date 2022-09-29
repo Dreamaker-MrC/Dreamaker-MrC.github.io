@@ -18,12 +18,12 @@ I am an undergraduate in the [Harbin Institute of Technology](http://en.hit.edu.
 * MIMO
 
 ## Selected Journal Publications
-1. *In preparation for submission to Water Resources Research*. 
+. *In preparation for submission to Water Resources Research*. 
 
 Xiang Feng *, Tao liu, **Wenqing Cui**, Fengcong li, Yinan Zhao (2022). Handwriting Number Recognition Based on Millimeter-wave Radar
 with Dual-view Feature Fusion Network. *Accepted by Journal of Electronics & Information Technology*. 
 
-Xiang Feng, Tao Liu, **Wenqing Cui**, Chaolin Zhang(2022).
+Xiang Feng *, Tao liu, **Wenqing Cui**,et al (2022). Robust Phase-coded Waveform Design with Low Range Sidelobes Using Particles Filter Assisted Projection Method. *Accepted by International Conference on Information Communication and Signal Processing*. 
 
 Xiang Feng *, Zhanfeng Zhao, Fengcong Li, **Wenqing Cui**, Yinan Zhao(2022). Radar Waveform Design with Cognitive Local Low Range Sidelobes
 Based on Particles Swarm Assisted Projection Optimization. *Remote Sensing*, [link](https://doi.org/10.3390/rs14174186)
