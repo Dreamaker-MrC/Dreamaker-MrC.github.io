@@ -11,7 +11,7 @@ redirect_from:
 This is wenqing Cui's personal homepage. 
 
 ## A short introduction
-I am an undergraduate in the Harbin Institute of Technology(http://en.hit.edu.cn/) major in the Electronic Information Engineering. I received my Ph.D. in Water Resource Engineering from UNSW. During my Ph.D., I developed a new method, namely Wavelet System Prediction (WASP), which is able to predict sustained hydro-climatological changes. I received my B.Eng. in Environmental Engineering from Hohai University, China; I did my Joint M.Sc., named “EuroAquae - HydroInformatics and Water Management” under a partnership of five European universities (in Barcelona, Budapest, Cottbus, Newcastle/UK, and Nice). Before moving to Australia, I also worked in hydrological and crop modelling at Tropical Marine Science Institute of National University of Singapore for two years.
+I am an undergraduate in the [Harbin Institute of Technology](http://en.hit.edu.cn/) major in the Electronic Information Engineering. I received my B.Eng. in Environmental Engineering from Hohai University, China.
 
 <b>Research Interests:</b>
 * Hydro-climatological modelling and forecasting (e.g. Wavelet System Prediction)
