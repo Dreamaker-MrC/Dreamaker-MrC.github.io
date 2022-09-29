@@ -1,11 +1,7 @@
 ---
-title: "Drought Prediction across Australia"
-excerpt: "ARC linkage grant and Department of Industry, NSW, Australia <br/><img src='/images/drought.png'>"
+title: "JPEG Image Compression System"
+excerpt: "<br/><img src='/images/JPEG1.jpg'>"
 collection: portfolio
 ---
 
-Hydro-climatologists rely on general circulation models (GCMs) to understand the risk of future droughts due to human-induced climate change. However, GCMs have varying abilities to represent these sustained hydro-climatological anomalies due to their coarse resolutions and parametrizations leading to considerable uncertainty and biases at a range of time scales. Therefore, there are still research gaps in GCM-based assessments of hydro-climatological changes. As such, the primary aims of this project include: 
-
-* Identifying the role of uncertainty and bias in detecting historical climate change; 
-
-* Improving the representation of low-frequency variability of hydro-climatological anomalies, such as sustained droughts. 
+This project makes an image compression system based on the JPEG compression standard. The image is firstly segmented, then DCT transformed, and then quantized according to the given quantization table. The DC component is differentially encoded, the AC component is run-length encoded, and the data is then Huffman encoded.This system will eventually output the compressed image and calculate the compression ratio.
