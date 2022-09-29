@@ -18,7 +18,7 @@ I am an undergraduate in the [Harbin Institute of Technology](http://en.hit.edu.
 * MIMO
 
 ## Selected Journal Publications
-. *In preparation for submission to Water Resources Research*. 
+Novel echo-signal processing and recognition technique of Mm-wave radar monitoring for elder’s falls in home security*In preparation for submission to *. 
 
 Xiang Feng *, Tao liu, **Wenqing Cui**, Fengcong li, Yinan Zhao (2022). Handwriting Number Recognition Based on Millimeter-wave Radar
 with Dual-view Feature Fusion Network. *Accepted by Journal of Electronics & Information Technology*. 
