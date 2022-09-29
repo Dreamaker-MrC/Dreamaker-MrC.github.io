@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is wenqing Cui's personal homepage. 
+This is Wenqing Cui's personal homepage. 
 
 ## A short introduction
 I am an undergraduate in the [Harbin Institute of Technology](http://en.hit.edu.cn/) major in the Electronic Information Engineering. 
