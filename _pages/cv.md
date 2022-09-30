@@ -8,28 +8,17 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV ([Eng](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf),[Chi](https://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Chi.pdf))
+Download CV ([Eng](http://Dreamaker-MrC.github.io/files/CV_Eng.pdf),[Chi])
 ======
 
 Education
 ======
-* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
-* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
+* B.Eng. in Electronic Information Engineering, Harbin Institute of Technology, Weihai, China, 2023 
 
 Research Interests
 ======
-* Hydro-climatological modelling and forecasting
-* Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrology/Hydraulics and water quality numerical modelling
-* HydroInformatics and water management
-
-Research Highlights
-======
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
-* An open-source tool for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
-* Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
+* Radar Waveform Design
+* MIMO
 
 Work experience
 ======
@@ -63,28 +52,15 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
- 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Languages
 ======
-Mandarin, English
+Mandarin(Native speaker), English（C1）
 
 Skills & Expertise 
 ======
-* Statistical hydrology and water resource engineering.
-* Programming Skills: R, C/C++, and Python in both Unix and Windows systems.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
+* Programming Skills: Matlab, C/C++, and Python.
+* Rich experience in 
 
 Service and leadership
 ======
@@ -98,9 +74,3 @@ Service and leadership
   + International Journal of River Basin Management 
   + Water; Sustainability; International Journal of Environmental Research and Public Health
 
-Membership
-======
-* American Geosciences Union (AGU)
-* Asia Oceania Geosciences Society (AOGS)
-* International Commission of Statistical Hydrology (ICSH-IAHS)
-* Modeling and Simulation Society of Australia and New Zealand (MSSANZ)
