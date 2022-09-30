@@ -1,9 +1,7 @@
 ---
-title: "ABC Waters: Low impact development (LID) for Singapore environment"
-excerpt: "PUB-TMSI-Monash University project <br/><img src='/images/ABC-Waters.jpg'>"
+title: "UAV pursuit system based on OPENMV"
+excerpt: "<br/><img src='/images/p41.jpg'> <br/><img src='/images/p42.jpg'>"
 collection: portfolio
 ---
 
-## Effectiveness of ABC Waters design features in residential developments, PUB-TMSI-Monash University project.
-
-Evaluation of the applications of low impact development (LID) for Singapore environment. Given Singapore is such a small island stat in the tropic, with high rainfall intensity and a rather short time of concentration (of about 30 minutes), we wish to consider its applicability in Singapore. 
+Use PIXHAWK flight control hardware to build a four-axis UAV experimental platform. The UAV uses mini lidar and Optical Flow sensor to determine altitude and stabilize its position. The Hough circle change algorithm is used to identify the position of a specific shape, and a negative feedback control system is used to make the UAV hover over the specified target to achieve the function of tracking the target.
