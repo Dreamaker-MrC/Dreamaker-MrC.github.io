@@ -35,7 +35,12 @@ Skills & Expertise
 * Programming Skills: Matlab, C/C++, and Python.
 * Rich experience in Simulation and Construction of Radar Experiment System
 
+Honors and scholarships
+======
+* Major Award(Top 3% students from my major.) 
+* Excellent Volunteer(by Committee of National Robot Competition)
+* Outstanding Student Leaders(Top 3% students from all majors.) 
+
 Service and leadership
 ======
 * 
-
