@@ -1,6 +1,6 @@
 ---
 title: "Face recognition based on Machine Learning"
-excerpt: " <br/><img src='/images/p31.jpg'>"
+excerpt: " <br/><img src='/images/p31.jpg'> <br/><img src='/images/p32.jpg'>"
 collection: portfolio
 ---
 
