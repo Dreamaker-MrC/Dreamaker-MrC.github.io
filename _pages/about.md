@@ -16,6 +16,7 @@ I am an undergraduate in the [Harbin Institute of Technology](http://en.hit.edu.
 <b>Research Interests:</b>
 * Radar waveform design
 * MIMO
+* UAV
 
 ## Selected Journal Publications
 Xiang Feng *, Tao liu, **Wenqing Cui**, Fengcong li, Yinan Zhao (2022). Handwriting Number Recognition Based on Millimeter-wave Radar
