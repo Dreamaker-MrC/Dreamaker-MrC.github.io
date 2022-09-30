@@ -1,6 +1,6 @@
 ---
 title: "JPEG Image Compression System"
-excerpt: "<br/><img src='/images/JPEG1.jpg'>"
+excerpt: "<br/><img src='/images/JPEG1.jpg'><br/><img src='/images/JPEG2.jpg'>"
 collection: portfolio
 ---
 
