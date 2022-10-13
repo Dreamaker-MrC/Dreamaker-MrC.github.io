@@ -14,9 +14,8 @@ This is Wenqing Cui's personal homepage.
 I am an undergraduate in the [Harbin Institute of Technology](http://en.hit.edu.cn/) major in the Electronic Information Engineering. 
 
 <b>Research Interests:</b>
+* mmWave Radar
 * Radar waveform design
-* MIMO
-* UAV
 
 ## Selected Journal Publications
 Xiang Feng *, Tao liu, **Wenqing Cui**, Fengcong li, Yinan Zhao (2022). Handwriting Number Recognition Based on Millimeter-wave Radar
