@@ -1,6 +1,6 @@
 ---
 title: "FPGA-Powered Airhockey Duel: An Interactive Gaming Experience"
-excerpt: " <br/><img src='/images/p31.jpg'>"
+excerpt: " <br/><img src='/images/fpga1.png'>"
 collection: portfolio
 ---
 
