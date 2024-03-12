@@ -32,4 +32,4 @@ Xiang Feng *, Zhanfeng Zhao, Fengcong Li, **Wenqing Cui**, Yinan Zhao(2022). Rad
 Based on Particles Swarm Assisted Projection Optimization. *Remote Sensing*, [link](https://doi.org/10.3390/rs14174186)
 
 ## For more information
-More info about Wenqing Cui can be found in [CV](https://dreamaker-mrc.github.io/cv/) or [downloaded CV](https://dreamaker-mrc.github.io/files/CV_Eng.pdf).
+More info about Wenqing Cui can be found in [CV](https://dreamaker-mrc.github.io/cv/) or [downloaded CV](https://dreamaker-mrc.github.io/files/CV_Eng_24.pdf).
