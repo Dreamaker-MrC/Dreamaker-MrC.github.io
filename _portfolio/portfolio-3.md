@@ -1,7 +1,7 @@
 ---
-title: "Face recognition based on Machine Learning"
-excerpt: " <br/><img src='/images/p31.jpg'> <br/><img src='/images/p32.jpg'>"
+title: "FPGA-Powered Airhockey Duel: An Interactive Gaming Experience"
+excerpt: " <br/><img src='/images/p31.jpg'>"
 collection: portfolio
 ---
 
-The project was done in two ways. The first approach uses principal component analysis (PCA) to extract feature faces from face sample sets. Fisher Linear Discrimination method is used for face classification and recognition. The second approach uses HOG operator to extract feature faces, and then uses multi-layer feedforward neural network to classify and recognize faces.
+In this project, we implemented an Airhockey game using the Nexys A7-100T FPGA board. The game is designed to be interactive, utilizing two matrix keyboards as input devices for players to control their paddles. For the visual aspect, the game generates VGA signals to display the game interface, including the puck, paddles, and scoring, on a VGA monitor. This setup not only demonstrates the FPGA's capability to handle real-time inputs and outputs but also showcases the potential for creating engaging, hardware-accelerated games.
