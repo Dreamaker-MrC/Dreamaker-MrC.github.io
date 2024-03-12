@@ -17,7 +17,6 @@ Currently, I am honing my skills as a Master's student in Electrical and Compute
 My academic pursuits are more than just a path to a degree; they are a testament to my dedication to contributing to the field of engineering. I invite you to explore my portfolio, where you'll find a blend of academic achievements and projects that encapsulate my enthusiasm for creating a smarter and more efficient future through engineering.
 
 Thank you for stopping by, and I look forward to connecting with you!
-I am an undergraduate in the  major in the Electronic Information Engineering. 
 
 <b>Research Interests:</b>
 * CV
