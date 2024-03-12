@@ -20,9 +20,9 @@ Name2 Name2:
 Wenqing Cui:
   name             : "Wenqing Cui"
   avatar           : "profile.png"
-  bio              : "Undergraduate@HIT"
-  location         : "Weihai, China"
+  bio              : "Master student@KAUST"
+  location         : "Jeddeh, KSA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mrc0814@163.com"
+      url: "mailto:wenqing.cui@kaust.edu.sa"
