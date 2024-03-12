@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-This is Wenqing Cui's personal homepage. 
-
 ## A short introduction
 Hello and welcome to my personal page! I am proud to share with you a journey that intertwines rigorous academics with a passion for engineering innovation.
 
