@@ -17,8 +17,8 @@ Education
 
 Research Interests
 ======
-* Radar Waveform Design
-* MIMO
+* CV
+* mmWave Radar
 
 Publications
 ======
@@ -37,10 +37,7 @@ Skills & Expertise
 
 Honors and scholarships
 ======
-* Major Award(Top 3% students from my major.) 
+* First-class Academic Award(Top 3% students from my major.) 
 * Excellent Volunteer(by Committee of National Robot Competition)
 * Outstanding Student Leaders(Top 3% students from all majors.) 
 
-Service and leadership
-======
-* 
