@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV ([Eng](http://Dreamaker-MrC.github.io/files/CV_Eng.pdf),[Chi])
+Download CV ([Eng](http://Dreamaker-MrC.github.io/files/CV_Eng_24.pdf))
 ======
 
 Education
